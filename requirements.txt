@@ -1,4 +1,4 @@
 Flask
-tensorflow-cpu
+tflite # tensorflow-cpu
 numpy
 opencv-python-headless
